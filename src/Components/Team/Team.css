@@ -1,0 +1,21 @@
+.team-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 90px;
+}
+
+.player-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 840px;
+    margin: auto;
+}
+
+.selected-team-container {
+    margin-right: 140px;
+}
+
+#selected-team-wrapper {
+    background-color: #f8f9fa;
+}

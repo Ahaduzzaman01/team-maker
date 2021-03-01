@@ -1,16 +1,15 @@
-.App {
-  text-align: center;
+#nav-text {
+  font-weight: 600;
+  font-size: 28px;
+  text-transform: uppercase;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.nav-wrapper {
+  margin: 0px 60px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.search-bar {
+  margin-right: 10px;
 }
 
 .App-header {
@@ -32,6 +31,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

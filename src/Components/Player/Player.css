@@ -1,0 +1,28 @@
+#custom-card-style {
+    width: 350px;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    padding-bottom: 25px;
+}
+
+#custom-row {
+    margin: 0px 40px 40px 0px;
+}
+
+.played-text {
+    font-weight: 400;
+}
+
+.played-text span {
+    font-weight: 600;
+}
+
+.image-box {
+    margin-top: 50px;
+}
+
+.image-box img {
+    width: 200px;
+    border-radius: 15px;
+}

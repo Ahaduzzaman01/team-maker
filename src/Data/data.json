@@ -1,0 +1,123 @@
+[
+    {
+    "id": 1,
+    "name": "Tamim Iqbal",
+    "image":"https://i.postimg.cc/pTRKq19b/images-1.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 5000,
+    "age": "31 years"
+    },
+    {
+    "id": 2,
+    "name": "Liton Das",
+    "image":"https://i.postimg.cc/8kqMY5fm/images-2.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 2500,
+    "age": "26 years"
+    },
+    {
+    "id": 3,
+    "name": "Shakib Al Hasan",
+    "image":"https://i.postimg.cc/598m5L6M/images.jpg",
+    "team":"Bangladesh National Cricket Team, IPL, BPL",
+    "salary": 5000,
+    "age": "33 years"
+    },
+    {
+    "id": 4,
+    "name": "Mushfiqur Rahim",
+    "image":"https://i.postimg.cc/hPDcc8mD/images-3.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 5000,
+    "age": "33 years"
+    },
+    {
+    "id": 5,
+    "name": "Mahmudullah",
+    "image":"https://i.postimg.cc/ZRbVCqxd/download.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 5000,
+    "age": "35 years"
+    },
+    {
+    "id": 6,
+    "name": "Soumya Sarkar",
+    "image":"https://i.postimg.cc/RV5GHGdm/download-1.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 2000,
+    "age": "28 years"
+    },
+    {
+    "id": 7,
+    "name": "Mashrafe Mortaza",
+    "image":"https://i.postimg.cc/4NsVG0wY/images-4.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 5000,
+    "age": "37 years"
+    },
+    {
+    "id": 8,
+    "name": "Mustafizur Rahman",
+    "image":"https://i.postimg.cc/Y9tM0QPz/download-2.jpg",
+    "team":"Bangladesh National Cricket Team, IPL, BPL",
+    "salary": 3800,
+    "age": "25 years"
+    },
+    {
+    "id": 9,
+    "name": "Mehidy Hasan",
+    "image":"https://i.postimg.cc/ZYV716xz/images-5.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 1500,
+    "age": "23 years"
+    },
+    {
+    "id": 10,
+    "name": "Rubel Hossain",
+    "image":"https://i.postimg.cc/4dtHkD0F/images-6.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 3800,
+    "age": "31 years"
+    },
+    {
+    "id": 11,
+    "name": "Abu Jayed Chowdhury",
+    "image":"https://i.postimg.cc/DwqN00X2/download-3.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 1000,
+    "age": "27 years"
+    },
+    {
+    "id": 12,
+    "name": "Sabbir Rahman",
+    "image":"https://i.postimg.cc/Y9JVjWbC/images-7.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 2500,
+    "age": "29 years"
+    },
+    {
+    "id": 13,
+    "name": "Mohammad Saifuddin",
+    "image":"https://i.postimg.cc/029nnnMq/download-4.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 1500,
+    "age": "24 years"
+    },
+    {
+    "id": 14,
+    "name": "Mosaddek Hossain",
+    "image":"https://i.postimg.cc/ZRF3ykLv/download-5.jpg",
+    "team":"Bangladesh National Cricket Team, BPL",
+    "salary": 2000,
+    "age": "25 years"
+    },
+    {
+    "id": 15,
+    "name": "Hasan Mahmud",
+    "image":"https://i.postimg.cc/yddB0cmh/images-8.jpg",
+    "team":"Bangladesh National Cricket Team",
+    "salary": 1200,
+    "age": "21 years"
+    }
+    
+]
